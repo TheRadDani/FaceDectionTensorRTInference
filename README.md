@@ -1,1 +1,2 @@
 # FaceDectionTensorRTInference
+![Lenna](result.png)
